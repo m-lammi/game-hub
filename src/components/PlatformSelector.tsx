@@ -1,6 +1,5 @@
 import {
   Button,
-  Image,
   Menu,
   MenuButton,
   MenuItem,

@@ -1,5 +1,3 @@
-import GenreList from "./GenreList";
-
 const SideBar = () => {
   return <div>SideBar</div>;
 };
